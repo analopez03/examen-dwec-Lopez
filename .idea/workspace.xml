@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c6e25f7-f1af-476b-b2b6-b101c2a0f176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/examen-dwec-Lopez" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saludo.js" beforeDir="false" afterPath="$PROJECT_DIR$/saludo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen-dwec-Lopez" beforeDir="false" afterPath="$PROJECT_DIR$/examen-dwec-Lopez" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +19,21 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="saludo" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="33SEpRCp6FaO5Qz8OT51CpzTEux" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +45,7 @@
     "Node.js.saludo.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "saludo",
+    "git-widget-placeholder": "saludin",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
