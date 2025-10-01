@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c6e25f7-f1af-476b-b2b6-b101c2a0f176" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8c6e25f7-f1af-476b-b2b6-b101c2a0f176" name="Changes" comment="Nueva modificación">
       <change beforePath="$PROJECT_DIR$/saludo.js" beforeDir="false" afterPath="$PROJECT_DIR$/saludo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "analopez03"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/analopez03/examen-dwec-Lopez.git",
+    "accountId": "ceb9f190-97df-4810-84dd-022c27b12b29"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -62,11 +73,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759302255481</updated>
-      <workItem from="1759302256530" duration="2981000" />
+      <workItem from="1759302256530" duration="3126000" />
     </task>
+    <task id="LOCAL-00001" summary="Nueva modificación">
+      <option name="closed" value="true" />
+      <created>1759305310056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759305310056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nueva modificación" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nueva modificación" />
   </component>
 </project>
